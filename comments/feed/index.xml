@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>O Consórcio de Desenvolvimento da Região de Governo de Itapetininga</description>
-	<lastBuildDate>Mon, 01 Apr 2024 18:22:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Apr 2024 19:13:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 </channel>
 </rss>
